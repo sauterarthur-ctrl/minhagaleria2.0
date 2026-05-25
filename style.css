@@ -1,8 +1,8 @@
-.imagem{
-    /*largura*/
-    width:1150px;
+body{
+    margin: 0; /*remove a margem*/
+ 
+    background-color: rgb(0, 0, 255); /*Muda a cor do fundo*/
 
-/*altura*/
-height:1150px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
-}
+} 

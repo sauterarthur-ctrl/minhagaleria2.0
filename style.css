@@ -27,7 +27,7 @@ h1{
  .imagem img {
 
     width: 100%;
- max-width: 100px; /*define a largura*/
+ max-width: 300px; /*define a largura*/
 height: auto; /*define a altura*/
 justify-self: center;
 

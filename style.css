@@ -23,6 +23,13 @@ h1{
   /* cria colunas, auto fit = encaixa as colunas, minmax = restringe o numero de colunas */
 
  margin:auto; /*margem*/
-
-
 }
+ .imagem img {
+
+    width: 50%;
+ max-width: 100px; /*define a largura*/
+height: auto; /*define a altura*/
+justify-self: center;
+
+
+ }
